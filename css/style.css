@@ -179,7 +179,7 @@ nav a:hover, nav a:focus{
   }
   .container{
     display: grid;
-    grid-template-columns: 50px autho 500px auto 50px;
+    grid-template-columns: 50px auto 500px auto 50px;
   }
   .container>:first-child{
     grid-column: 1/6;
